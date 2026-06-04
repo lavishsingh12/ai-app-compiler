@@ -1,6 +1,6 @@
-## AI App Compiler
+## 🤖 AI App Compiler
 
-## Overview
+## 📌 Overview
 
 AI App Compiler is a multi-stage AI system that converts natural language application requirements into structured application configurations.
 
@@ -10,7 +10,7 @@ Natural Language → Intent Extraction → System Design → Schema Generation �
 
 ---
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Users describe applications in natural language.
 
@@ -29,7 +29,7 @@ while ensuring consistency and execution readiness.
 
 ---
 
-## Architecture
+## 🏗️ Architecture
 
 User Prompt
 ↓
@@ -47,9 +47,9 @@ Runtime Simulator
 
 ---
 
-## Pipeline Stages
+## ⚙️Pipeline Stages
 
-### 1. Intent Extraction
+### 1️⃣ Intent Extraction
 
 Extracts:
 
@@ -70,7 +70,7 @@ Example:
 }
 ```
 
-### 2. System Design
+### 2️⃣ System Design
 
 Generates:
 
@@ -93,7 +93,7 @@ Example:
 }
 ```
 
-### 3. Schema Generation
+### 3️⃣ Schema Generation
 
 Generates:
 
@@ -102,14 +102,14 @@ Generates:
 * Database Schema
 * Auth Schema
 
-### 4. Validation
+### 4️⃣ Validation
 
 Performs:
 
 * Missing component detection
 * Cross-layer consistency checks
 
-### 5. Repair Engine
+### 5️⃣ Repair Engine
 
 Automatically repairs detected issues.
 
@@ -118,7 +118,7 @@ Example:
 * Missing Contacts API
 * Missing Payments API
 
-### 6. Runtime Simulation
+### 6️⃣ Runtime Simulation
 
 Validates execution readiness.
 
@@ -131,7 +131,7 @@ Outputs:
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Google Gemini API
@@ -141,7 +141,7 @@ Outputs:
 
 ---
 
-## Running Locally
+## 🚀 Running Locally
 
 Install dependencies:
 
@@ -157,7 +157,7 @@ python ui.py
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 * Advanced semantic validation
 * Conflict detection
@@ -167,6 +167,6 @@ python ui.py
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Lavish Singh Rajawat
