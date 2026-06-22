@@ -166,7 +166,11 @@ python ui.py
 * Runtime deployment support
 
 ---
+## 🌐 Live Demo
+https://huggingface.co/spaces/lavishsingh12/ai-app-compiler
 
 ## 👨‍💻 Author
-
 Lavish Singh Rajawat
+B.Tech Student | AI-ML Enthusiast  
+GitHub: [@lavishsingh12](https://github.com/lavishsingh12)
+Linkedin: [@lavishsingh12](https://www.linkedin.com/in/lavishsingh12)
